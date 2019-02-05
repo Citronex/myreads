@@ -1,4 +1,4 @@
-## 'My Reads' application for the Udacity Nanodegree Program in Front-End Development
+## Udacity's 'My Reads' Application
 
 * [Description](#description)
 * [Purpose](#purpose)
