@@ -4,9 +4,7 @@
 * [Purpose](#purpose)
 * [Stack](#stack)
 * [Installation](#installation)
-* [Files](#files)
 * [Instructions](#instructions)
-* [Contributing](#contributing)
 
 ## Description
 The purpose of this project was to learn how to create a React application. Starter-kit contained the required css, and necessary dependencies to run a React application locally. A Static HTML index file was also included to be used as a template for the building of the project. 
@@ -27,3 +25,13 @@ The purpose of this app is to search and organize books fetched via API. After s
 ## Installation
 To install all dependencies use `npm install`
 To start a server use `npm start`
+
+## Instructions
+
+* Start server (`npm start`), it would bring you to the main page.
+* There are some books on the shelves.
+* Use dropdown menu on each book to move book between shelves.
+* "Add to book" link would bring you to the search page.
+* Search for a book and move it to the desired shelf.
+* If you clean the search form, then the search page becomes empty.
+
