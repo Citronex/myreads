@@ -16,13 +16,16 @@ class Search extends Component {
     this.setState({query: query})
     this.searched(query);}
 
-
   //with the query entered
   searched = (query) => {
+    //check if query exists
+    console.log(query)
+    if(query){
       //call the search API and use the returned data
       BooksAPI.search(query).then((searched) => {
-        //if the response is greater than 0
-        if(searched.length > 0) {
+        //if the response doesn't have an error
+        if(!(searched.error)) {
+          console.log(searched)
       /*iterate thru the response and assign book to 'none' or corresponding shelf */
           searched =  searched.map((returnedBook) => {
             returnedBook.shelf = 'none';
@@ -37,7 +40,10 @@ class Search extends Component {
         } else {
           this.setState({searched: []})
         }})
+  } else {
+    this.setState({searched: []})
   }
+}
 
   render() {
 
