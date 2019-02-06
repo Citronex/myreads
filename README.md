@@ -13,12 +13,12 @@ The purpose of this project was to learn how to create a React application. Star
 The purpose of this app is to search and organize books fetched via API. After searching, the books can either be placed or moved amongst 3 shelves. Books can also be removed from any of the shelves by selecting the 'none' option. The main idea is to be able to organize and keep track of books by showing their info and cover into the states of "Currently reading", "Want to read", or "Read".
 
 ## Stack
- * [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML),
- * [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS),
- * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
- * [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API),
- * [React-Router](https://reacttraining.com/react-router/),
- * [React in DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en),
+ * [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+ * [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS)
+ * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ * [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+ * [React-Router](https://reacttraining.com/react-router/)
+ * [React in DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
  * [Create React App](https://github.com/facebook/create-react-app)
  * [React](https://github.com/facebook/create-react-app)
 
