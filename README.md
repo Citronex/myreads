@@ -23,8 +23,7 @@ The purpose of this app is to search and organize books fetched via API. After s
  * [React](https://github.com/facebook/create-react-app)
 
 ## Installation
-To install all dependencies use `npm install`
-To start a server use `npm start`
+To install all dependencies use `npm install`. To start a server use `npm start`
 
 ## Instructions
 
