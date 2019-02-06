@@ -28,7 +28,7 @@ class Shelf extends React.Component {
                 key= {book.id}
                 title= {book.title}
                 author= {book.authors}
-                image= {book.imageLinks.thumbnail}
+                image= {book.imageLinks ? book.imageLinks.thumbnail: 'placeholder.jpg'}//adding check for empty thumbnail
                 shelf= {book.shelf}
                 onUpdateShelf= {(shelf) => 
                   {this.props.onUpdateShelf(book.id,shelf)}
