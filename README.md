@@ -16,11 +16,11 @@ The purpose of this app is to search and organize books fetched via API. After s
  * [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML),
  * [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS),
  * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript),
- * [ServiceWorkers] (https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API),
- * [React-Router] (https://reacttraining.com/react-router/),
- * [React in DevTools] (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en),
- * [Create React App] (https://github.com/facebook/create-react-app)
- * [React] (https://github.com/facebook/create-react-app)
+ * [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API),
+ * [React-Router](https://reacttraining.com/react-router/),
+ * [React in DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en),
+ * [Create React App](https://github.com/facebook/create-react-app)
+ * [React](https://github.com/facebook/create-react-app)
 
 ## Installation
 To install all dependencies use `npm install`
