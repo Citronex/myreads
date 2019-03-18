@@ -1,14 +1,14 @@
 {
   "main.css": "/myreads/static/css/main.f109f942.chunk.css",
-  "main.js": "/myreads/static/js/main.6c728e80.chunk.js",
-  "main.js.map": "/myreads/static/js/main.6c728e80.chunk.js.map",
+  "main.js": "/myreads/static/js/main.306a3038.chunk.js",
+  "main.js.map": "/myreads/static/js/main.306a3038.chunk.js.map",
   "static/js/1.3738e93d.chunk.js": "/myreads/static/js/1.3738e93d.chunk.js",
   "static/js/1.3738e93d.chunk.js.map": "/myreads/static/js/1.3738e93d.chunk.js.map",
   "runtime~main.js": "/myreads/static/js/runtime~main.1b7e853e.js",
   "runtime~main.js.map": "/myreads/static/js/runtime~main.1b7e853e.js.map",
-  "static/media/App.css": "/myreads/static/media/arrow-back.3687aa98.svg",
+  "static/media/App.css": "/myreads/static/media/arrow-drop-down.78c6f53b.svg",
   "static/css/main.f109f942.chunk.css.map": "/myreads/static/css/main.f109f942.chunk.css.map",
   "index.html": "/myreads/index.html",
-  "precache-manifest.c139eaac171b1151445961dfd9d66567.js": "/myreads/precache-manifest.c139eaac171b1151445961dfd9d66567.js",
+  "precache-manifest.d291ea4e752df90e04fa52522549f352.js": "/myreads/precache-manifest.d291ea4e752df90e04fa52522549f352.js",
   "service-worker.js": "/myreads/service-worker.js"
 }
