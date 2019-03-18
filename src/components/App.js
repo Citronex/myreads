@@ -45,7 +45,7 @@ class App extends Component {
     return (
 
       <div className= 'app'>
-        <Route exact path='/' render= {() => (
+        <Route exact path='/myreads' render= {() => (
             <Main
               books= {this.state.books}
               shelves= {this.state.shelves}
