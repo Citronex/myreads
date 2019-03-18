@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c09e57972d97d29121b6",
+    "revision": "6c728e80f7b29bc85e50",
     "url": "/myreads/static/css/main.f109f942.chunk.css"
   },
   {
-    "revision": "c09e57972d97d29121b6",
-    "url": "/myreads/static/js/main.c09e5797.chunk.js"
+    "revision": "6c728e80f7b29bc85e50",
+    "url": "/myreads/static/js/main.6c728e80.chunk.js"
   },
   {
     "revision": "3738e93de025062bc27b",
@@ -20,15 +20,15 @@ self.__precacheManifest = [
     "url": "/myreads/static/media/add.bb9363b8.svg"
   },
   {
-    "revision": "3687aa988bec28f17ae39153db1646c3",
-    "url": "/myreads/static/media/arrow-back.3687aa98.svg"
-  },
-  {
     "revision": "78c6f53b2342643639fe1cbaf171bf47",
     "url": "/myreads/static/media/arrow-drop-down.78c6f53b.svg"
   },
   {
-    "revision": "2af98fff9e62db72ba7a09753d0a5bb3",
+    "revision": "3687aa988bec28f17ae39153db1646c3",
+    "url": "/myreads/static/media/arrow-back.3687aa98.svg"
+  },
+  {
+    "revision": "7b941d7a1ad6898412abaa9ebded96eb",
     "url": "/myreads/index.html"
   }
 ];
