@@ -37,7 +37,7 @@ class Main extends React.Component {
         </div>
         {/*search page using React Router Link component*/}
         <div className="open-search">
-          <Link to="/search"> Add a book</Link>
+          <Link to="/myreads/search"> Add a book</Link>
         </div>
       </div>
     )

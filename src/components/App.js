@@ -45,7 +45,7 @@ class App extends Component {
     return (
 
       <div className= 'app'>
-        <Route exact path='/myreads' render= {() => (
+        <Route exact path='/myreads/' render= {() => (
             <Main
               books= {this.state.books}
               shelves= {this.state.shelves}
@@ -53,13 +53,13 @@ class App extends Component {
             />
           )}
         />
-        <Route path= '/search' render = {({ history }) => (
+        <Route path= '/myreads/search' render = {({ history }) => (
             <Search
               books= {this.state.books}
               shelves= {this.state.shelves}
               onUpdateShelf= {(book,shelf) =>{
                   this.updateShelf(book,shelf)
-                  history.push('/')
+                  history.push('/myreads/')
               }}
             />
           )} 
